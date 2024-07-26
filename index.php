@@ -13,5 +13,6 @@
 <a href="date.php">Ejemplo de DATE en PHP</a>
 <a href="phpinfo.php">PHP Info</a>
 <a href="ejercicio2FechaHoyMañanaAyer.php">Ejercicio2</a>
+<a href="ejercicio3.php">Ejercicio 3</a>
 </body>
 </html>
