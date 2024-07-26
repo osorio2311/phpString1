@@ -1,6 +1,6 @@
 <?php
 include "header.php";
-
+echo "<div class='contenedor'>";
 function salto(){
     echo "<br>";
 }
@@ -55,3 +55,5 @@ $diferencia=date_diff($hoy,$nacimientoJose);
 $edadJose=$diferencia->format("%y años");
 salto();
 echo "Jose tiene $edadJose";
+echo "</div>";
+include "footer.php";

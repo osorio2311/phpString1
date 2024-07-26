@@ -1,5 +1,6 @@
 <?php
 include "header.php";
+echo "<div class='contenedor'>";
 
 //Funciones de las cadenas de caracteres
 //Conocer la longitud de una cadena
@@ -76,4 +77,5 @@ function salto(){
     echo "<br>";
 }
 
-
+echo "</div>";
+include "footer.php";

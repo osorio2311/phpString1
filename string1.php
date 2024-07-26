@@ -1,6 +1,8 @@
 <!--include-> la sentencia include incluya y evalúa el archivo especificado-->
 <?php
 include "header.php";
+echo "<div class='contenedor'>";
+
 
 /**
  * Las comillas dobles muestran variables, cadenas y caracteres especiales
@@ -31,3 +33,5 @@ echo '<br>El párrafo tiene <strong>tiene muchas líneas</strong> en el código 
  * \' -> idem al anterior
  * \\ -> muestra la barra \
  */
+echo "</div>";
+include "footer.php";
