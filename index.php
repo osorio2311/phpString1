@@ -11,5 +11,7 @@
 <a href="string1.php">Ejemplo 1 de String PHP</a>
 <a href="string2.php">Ejemplo 2 de String Php</a>
 <a href="date.php">Ejemplo de DATE en PHP</a>
+<a href="phpinfo.php">PHP Info</a>
+<a href="ejercicio2FechaHoyMañanaAyer.php">Ejercicio2</a>
 </body>
 </html>
