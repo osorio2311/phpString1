@@ -81,5 +81,6 @@ footer{
     }
     .contenedor{
         flex-direction: column;
+        justify-content: center;
     }
 }
